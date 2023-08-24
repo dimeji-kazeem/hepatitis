@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'hepatitisApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2989A192852B48AE8DF38D1FA8205FB7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E384F0FE618949B297D2E5EFB36C3352 }}
